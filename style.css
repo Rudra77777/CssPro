@@ -295,4 +295,12 @@ body {
   text-align: center;
   padding: 2rem;
 }
+footer {
+  text-align: center;
+  color: #999;
+  font-size: 0.9rem;
+  margin-top: 4rem;
+  padding-bottom: 1rem;
+}
+
 
